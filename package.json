@@ -1,0 +1,24 @@
+{
+  "name": "hebrew-verb-conjugation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miriammjr/hebrew-verb-conjugation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miriammjr/hebrew-verb-conjugation/issues"
+  },
+  "homepage": "https://github.com/miriammjr/hebrew-verb-conjugation#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
