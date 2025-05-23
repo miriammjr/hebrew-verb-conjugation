@@ -1,4 +1,4 @@
-const PaalShlemimEfol = require("../paal-shlemim-efol");
+const PaalShlemimEfol = require("../paal/paal-shlemim-efol");
 const test1 = new PaalShlemimEfol("ר", "ג", "ס");
 const test2 = new PaalShlemimEfol("a", "b", "c");
 

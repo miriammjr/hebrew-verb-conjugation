@@ -20,5 +20,6 @@
   "homepage": "https://github.com/miriammjr/hebrew-verb-conjugation#readme",
   "dependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "type": "module"
 }

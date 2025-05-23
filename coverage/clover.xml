@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1747979518486" clover="3.2.0">
-  <project timestamp="1747979518486" name="All files">
-    <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="18" coveredelements="18" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
-    <file name="paal-shlemim-efol.js" path="C:\Users\mirru\Downloads\hebrew-verb-conjugation\paal-shlemim-efol.js">
-      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
-      <line num="3" count="2" type="stmt"/>
-      <line num="4" count="2" type="stmt"/>
-      <line num="5" count="2" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
-      <line num="22" count="1" type="stmt"/>
-      <line num="39" count="1" type="stmt"/>
-      <line num="56" count="1" type="stmt"/>
-      <line num="60" count="1" type="stmt"/>
-    </file>
-    <file name="verb.js" path="C:\Users\mirru\Downloads\hebrew-verb-conjugation\verb.js">
+<coverage generated="1747980841389" clover="3.2.0">
+  <project timestamp="1747980841389" name="All files">
+    <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="18" coveredelements="18" complexity="0" loc="12" ncloc="12" packages="2" files="2" classes="2"/>
+    <package name="hebrew-verb-conjugation">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="4" count="3" type="stmt"/>
-      <line num="5" count="3" type="stmt"/>
-      <line num="6" count="3" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
-    </file>
+      <file name="verb.js" path="C:\Users\mirru\Downloads\hebrew-verb-conjugation\verb.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="hebrew-verb-conjugation.paal">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="paal-shlemim-efol.js" path="C:\Users\mirru\Downloads\hebrew-verb-conjugation\paal\paal-shlemim-efol.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+    </package>
   </project>
 </coverage>

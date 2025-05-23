@@ -57,4 +57,4 @@ class PaalShlemimEfol {
   }
 }
 
-module.exports = Paal1;
+module.exports = PaalShlemimEfol;
