@@ -1,5 +1,7 @@
 # hebrew-verb-conjugation
 
+## turns out i don't know how to use node so i gave up on this lol 
+
 notes for myself:
 
 - since js doesn't allow multiple constructors, the verb class is useless tbh
